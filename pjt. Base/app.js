@@ -1,4 +1,5 @@
 // Variáveis globais
+let dsVersão = '1.0.0.1';
 let listaNumSorte = [];    // Array para armazenar números já sorteados
 let numLimite = 10;        // Limite máximo para o número secreto
 let numeroSecreto = gerarNumAleatorio();  // Gera o primeiro número secreto
